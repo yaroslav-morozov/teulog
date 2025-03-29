@@ -3,5 +3,6 @@
     <File Path=".gitignore" />
   </Folder>
   <Folder Name="/src/" Id="02ea681e-c7d8-13c7-8484-4ac65e1b71e8">
+    <Project Path="Teulog.Core/Teulog.Core.fsproj" Id="fbcd07fc-8fec-42ac-824f-ae57ce07338f" />
   </Folder>
 </Solution>
