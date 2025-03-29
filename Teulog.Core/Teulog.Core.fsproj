@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Compile Include="Entities\SystemSoftware.fs" />
+    <Compile Include="Repositories\ISystemSoftwareRepository.fs" />
   </ItemGroup>
 
 </Project>
