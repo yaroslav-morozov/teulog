@@ -4,4 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="Entities\SystemSoftware.fs" />
+  </ItemGroup>
+
 </Project>
